@@ -1,0 +1,4 @@
+;ID              ,Elev        ,Demand      ,Pattern         ,X-Coord         ,Y-Coord
+N1,0,0,0,0,0
+N2,0,0,0,100,0
+N3,0,30,0,100,100

@@ -1,0 +1,16 @@
+[JUNCTIONS]
+;ID 	 Elev 	 Demand
+N1	0.0	0.0	0.0
+N2	0.0	0.0	0.0
+N3	0.0	30.0	0.0
+
+[PIPES]
+;ID	Node1	Node2	Length	Diameter	Roughness	MinorLoss	Status
+L1	N1	N2	0.0	100.0	0.045	15.65640625	Open
+L2	N2	N3	0.0	150.0	0.034	7.1249382716	Open
+
+[COORDINATES]
+;Node	X-Coord	Y-Coord
+N1	0.0	0.0
+N2	100.0	0.0
+N3	100.0	100.0
